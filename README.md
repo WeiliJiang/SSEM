@@ -1,2 +1,2 @@
 # SSEM
-The repository provides the code for SSEM learning, parameter.py, sklern model for parameter setting, and code for all algorithms in data processing. The code is in the source code.ipyb.source code code to perform SSEM model and comment. the data set of fudan set is download from www.datatang.com/data/44139 and 43543, and the data set of cradie card is download from https://www.kaggle.com/mlg-ulb/creditcardfraud.
+The repository provides the code for SSEM learning, parameter.py, sklern model for parameter setting, and code for all algorithms in data processing. The code is in the source code.ipyb.source code code to perform SSEM model and comment. 
